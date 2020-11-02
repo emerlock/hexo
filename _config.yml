@@ -1,0 +1,3 @@
+deploy:
+  type: heroku
+  repo: https://github.com/emerlock/hexo
